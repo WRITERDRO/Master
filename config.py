@@ -63,8 +63,8 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShrutiBots")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShrutiBotSupport")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/VERON_BOTS")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/VERON_SUPPORTS")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/ᴠᴇʀᴏɴ-sᴛᴀғғs-ʟɪsᴛ-07-19-2")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -108,18 +108,18 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 # 🖼️ Image URLs (Can be customized)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/eehxb4.jpg")
-PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/eehxb4.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
+START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/pbpg1r.jpg")
+PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/pbpg1r.jpg")
+PLAYLIST_IMG_URL = "https://files.catbox.moe/pbpg1r.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/eehxb4.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/eehxb4.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/pbpg1r.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/pbpg1r.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/pbpg1r.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/pbpg1r.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/pbpg1r.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/pbpg1r.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/pbpg1r.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/pbpg1r.jpg"
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🔐 User & Bot State Stores
