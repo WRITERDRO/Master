@@ -66,7 +66,7 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/VERON_BOTS")
 SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/VERON_SUPPORTS")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/ᴠᴇʀᴏɴ-sᴛᴀғғs-ʟɪsᴛ-07-19-2")
-
+CLONE_MUSIC = os.getenv("CLONE_MUSIC" , "https://t.me/DEVA_MUSICBOT")
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ⏱️ Duration & Playlist Settings
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
