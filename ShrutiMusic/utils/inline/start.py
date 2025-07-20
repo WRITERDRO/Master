@@ -32,7 +32,7 @@ def start_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_GROUP),
         ],
         [
-            InlineKeyboardButton(text=_["E_X_1"], url=config.CLONE_MUSIC),
+            InlineKeyboardButton(text=_["E_X_1"], url=config.SUPPORT_CHANNEL),
             InlineKeyboardButton(text=_["S_B_11"], callback_data="about_page")  # About button
         ],
     ]
@@ -57,7 +57,7 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text=_["E_X_1"], url=config.CLONE_MUSIC),
+            InlineKeyboardButton(text=_["E_X_1"], url=config.SUPPORT_CHANNEL),
             InlineKeyboardButton(
                 text=_["S_B_5"],
                 url=f"https://t.me/{config.OWNER_USERNAME}"
