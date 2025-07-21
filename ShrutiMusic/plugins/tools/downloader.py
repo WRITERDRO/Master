@@ -3329,7 +3329,7 @@ async def send_repo(_, message: Message):
         ),
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("📂 clone music ", url="http://t.me/VERONxMUSIC_BOT")]
+                [InlineKeyboardButton("📂 clone music ", url="https://t.me/DEVA_MUSICBOT")]
             ]
         ),
         supports_streaming=True,
